@@ -2,10 +2,8 @@ package edu.iastate.cs472.proj1;
 
 import java.util.Comparator;
 
-/**
- *  
+/** 
  * @author Sonita Ung
- *
  */
 
 /**

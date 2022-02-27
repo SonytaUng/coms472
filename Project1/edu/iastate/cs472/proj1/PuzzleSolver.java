@@ -2,10 +2,9 @@ package edu.iastate.cs472.proj1;
 
 import java.io.FileNotFoundException;
 
-/**
- *  
+/** 
  * @author Sonita Ung
- *
+ * main() is here!!!
  */
 
 public class PuzzleSolver 

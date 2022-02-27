@@ -1,9 +1,7 @@
 package edu.iastate.cs472.proj1;
 
 /**
- * 
  * Different moves on the board
- *
  */
 public enum Move 
 {

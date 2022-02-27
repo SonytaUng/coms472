@@ -2,10 +2,8 @@ package edu.iastate.cs472.proj1;
 
 import java.io.FileNotFoundException;
 
-/**
- *  
+/**  
  * @author Sonita Ung
- *
  */
 
 public class EightPuzzle 
@@ -79,8 +77,6 @@ public class EightPuzzle
 		return null; 
 						
 	}
-	
-	
 	
 	/**
 	 * From a goal state, follow the predecessor link to trace all the way back to the initial state. 
